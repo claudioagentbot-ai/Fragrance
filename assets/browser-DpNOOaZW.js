@@ -1,0 +1,1 @@
+export{i as zipSync}from"./browser-DRfCsuQy.js";
